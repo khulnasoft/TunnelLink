@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tunnellink
+  description: Client for Khulnasoft Tunnels
+  annotations:
+    backstage.io/source-location: url:https://bitbucket.cfdata.org/projects/TUN/repos/tunnellink/browse
+    khulnasoft.com/software-excellence-opt-in: "true"
+    khulnasoft.com/jira-project-key: "TUN"
+    khulnasoft.com/jira-project-component: "Khulnasoft Tunnel"
+  tags:
+    - internal
+spec:
+  type: "service"
+  lifecycle: "Active"
+  owner: "teams/tunnel-teams-routing"
