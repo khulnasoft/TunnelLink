@@ -1,7 +1,7 @@
 # Makefile for fuzzing
 #
 # Use go-fuzz and needs the tools installed.
-# See https://blog.khulnasoft.com/dns-parser-meet-go-fuzzer/
+# See https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
 #
 # Installing go-fuzz:
 # $ make -f Makefile.fuzz get
