@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// This file was originally from https://golang.org/cl/24717 by Vlad Krasnov of KhulnaSoft.
+// This file was originally from https://golang.org/cl/24717 by Vlad Krasnov of CloudFlare.
 
 //go:build gc && !purego
 
